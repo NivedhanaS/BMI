@@ -6,6 +6,12 @@
     background-color: blanchedalmond;
     padding-left: 30px;
 }
+.img{
+    background-repeat:no-repeat;
+    background-size: 100%;
+    background-position:fixed;
+  }
+
 #height, #weight {
     width: 100px;
     height: 25px;
