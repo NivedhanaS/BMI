@@ -1,5 +1,7 @@
 # BMI
 created a simple website for BMI calculation 
 
-languages used:html,css and javascript
+Technology used:html,css and javascript
+
+Site link:https://eloquent-tapioca-3921bb.netlify.app/
 
